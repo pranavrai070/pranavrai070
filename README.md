@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pranav Rai</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">A passionate full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavrai070&label=Profile%20views&color=0e75b6&style=flat" alt="pranavrai070" /> </p>
 
-- 🔭 I’m currently working on [Pranav's Blog](https://blog-app-self-iota.vercel.app/)
+- 🔭 I’m currently working on [Quzy AI](https://quzy.in/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on [Threads Clone](https://threads-app-indol.vercel.app/)
+- 👯 I’m looking to collaborate on [Honestly Logical](https://honestlylogical.tech/)
 
-- 👨‍💻 All of my projects are available at [https://drsoftware.tech](https://drsoftware.tech)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://pranav.quzy.in)
 
-- 📝 I regularly write articles on [https://blog-app-self-iota.vercel.app/](https://blog-app-self-iota.vercel.app/)
+- 📝 I regularly write articles on [My Blog App](https://blog-app-self-iota.vercel.app/)
 
-- 💬 Ask me about **React, Next, Node, Python, MongoDB, SQL,...**
+- 💬 Ask me about ** Agentic AI, Mobile Apps, Google Play Console,React, Next, Node, Python, MongoDB, SQL,...**
 
-- 📫 How to reach me **pranav@drsoftware.tech**
+- 📫 How to reach me **pranav@quzy.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LALuhCo8j-wfw3_STZXCfn2Oe-2Viv-Z/view](https://drive.google.com/file/d/1LALuhCo8j-wfw3_STZXCfn2Oe-2Viv-Z/view)
 
